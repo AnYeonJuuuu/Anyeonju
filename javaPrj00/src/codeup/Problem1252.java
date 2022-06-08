@@ -9,7 +9,9 @@ public class Problem1252 {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		
-		for(int x= 1; x <= n; x++) {
+		for(int x= 1; x <= n; x++) 
+			
+		{
 			System.out.print(x+" ");
 		}
 
